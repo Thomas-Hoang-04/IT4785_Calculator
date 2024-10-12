@@ -21,4 +21,6 @@
     <string name="eq_but">=</string>
     <string name="sign_but">+/-</string>
     <string name="app_icon">redSun_icon</string>
+    <string name="empty" />
+    <string name="error">Cannot divide by 0</string>
 </resources>
